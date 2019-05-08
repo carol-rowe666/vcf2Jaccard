@@ -1,2 +1,2 @@
 # vcf2Jaccard
-Create a mean Jaccard similarity pairwise data frame from ipyrad vcf file 
+Converts the variant-calling files (vcf) from ipyrad output to a sample pairwise dataframe of mean Jaccard similarity coefficients (aka Jaccard index, or Intersection over Union) across all SNPs.
